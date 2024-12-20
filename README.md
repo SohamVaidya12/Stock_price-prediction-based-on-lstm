@@ -58,6 +58,14 @@ Extending predictions for the next 30 days and visualizing them.
 
 - Visualizations demonstrate the alignment between actual and predicted stock prices.
 
+### Visual Analysis
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
+
+  <img src="analysis2.png" width="70%" style="object-fit: contain;">
+ 
+
+</div>
+
 ---
 ## 🌟**Conclusion**
 This project successfully demonstrates the application of LSTMs in stock price prediction. The model’s ability to predict future prices based on historical data provides a foundation for further enhancements, such as incorporating additional features like trading volume or external market indicators. This project can serve as a baseline for building more sophisticated financial predictive models.
