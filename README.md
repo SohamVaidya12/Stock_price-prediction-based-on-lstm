@@ -3,7 +3,7 @@
 " width="40%">
 </div>
 
-# Stock_Price-Prediction-Based-on-Lstm
+# LSTM Based Stock Price Prediction
 
 
 ## **Introduction**
