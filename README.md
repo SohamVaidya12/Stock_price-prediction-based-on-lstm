@@ -61,7 +61,7 @@ Extending predictions for the next 30 days and visualizing them.
 ### Visual Analysis
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px;">
 
-  <img src="analysis2.png" width="70%" style="object-fit: contain;">
+  <img src="analysis2.png" width="50%" style="object-fit: contain;">
  
 
 </div>
