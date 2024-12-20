@@ -1,4 +1,9 @@
-# Stock_price-prediction-based-on-lstm
+<div align="center">
+  <img src="logoo.png" alt="Stock_Price-Prediction-Based-on-Lstm
+" width="40%">
+</div>
+
+# Stock_Price-Prediction-Based-on-Lstm
 
 
 ## **Introduction**
